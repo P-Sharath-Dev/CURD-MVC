@@ -1,0 +1,23 @@
+{
+  "name": "inventoryapp",
+  "version": "1.0.0",
+  "description": "this is product inventory app with express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expressjs",
+    "inventory",
+    "app"
+  ],
+  "author": "sharath",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1",
+    "express-validator": "^7.1.0"
+  }
+}
